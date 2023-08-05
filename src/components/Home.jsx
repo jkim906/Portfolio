@@ -15,7 +15,7 @@ const Home = () => {
             I'm a full stack developer with a passion for creating beautiful, responsive, and functional websites. I have experience in HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, and more.
           </p>
           <div>
-            <Link to="portfolio" smooth duration={500} offset={-100} className="group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursur-pointer">
+            <Link to="Projects" smooth duration={500} offset={-100} className="group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursur-pointer">
               Portfolio
               <span className="group-hover:rotate-90 duration-300 ml-2">
                 <TiArrowRightOutline size={18}/>

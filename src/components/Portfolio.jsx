@@ -4,24 +4,33 @@ import Portfolio1 from '../images/port/PortfolioJae.png';
 import Breakgame from '../images/port/Control-V.png';
 import cheater from '../images/port/Cheating.png';
 
+
 const Portfolio = () => {
   const projects = [
     {
       id: 1,
+      name: "Jaewon's Portfolio",
       src: Portfolio1,
+      link: 'https://github.com/jkim906/Portfolio',
 
     },
     {
       id: 2,
+      name: 'Breakgame',
       src: Breakgame,
+      link: 'https://github.com/jkim906/Boulder-Break-Game',
     },
     {
       id: 3,
+      name: 'Cheater', 
       src: cheater,
+      link: 'https://github.com/jkim906/Plagiarism-and-Cheating-Monitoring-System', 
     },
     {
       id: 4,
+      name: 'Insurance', 
       src: Insurance,
+      link: 'https://github.com/jkim906/Jaewons-Insurance-System',
     },
   ];
 
@@ -38,29 +47,33 @@ const Portfolio = () => {
             </p>
             <p className="py-6">Check out my projects</p>
           </div>
-          <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-8 px-12 sm:px-0">
-            {projects.map(({ id, src }) => (
+          <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-8 px-4 sm:px-0">
+          {projects.map(({ id, src, name, link }) => (
               <div key={id} className="shadow-md shadow-gray-600 rounded-lg aspect-square">
-                <img
-                  src={src}
-                  alt=""
-                  className="rounded-md w-full h-full object-cover duration-200 hover:scale-105"
-                />
-                <div className="flex items-center justify-center">
-                  <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
-                    Demo
-                  </button>
-                  <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
-                    Code
-                  </button>
-                </div>
+              <img
+                src={src}
+                alt=""
+                className="rounded-md w-full h-full object-cover duration-200 hover:scale-105"
+              />
+              <div className="flex items-center justify-center">
+                <a
+                  href={link}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105 flex items-center"
+                >
+                  View Project
+                  <span className="group-hover:rotate-90 duration-300 ml-2">
+                  </span>
+                </a>
               </div>
-            ))}
-          </div>
+            </div>
+          ))}
         </div>
       </div>
     </div>
-  );
+  </div>
+);
 };
 
 export default Portfolio;
