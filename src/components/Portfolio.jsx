@@ -1,8 +1,9 @@
 import React from 'react';
-import Insurance from '../images/port/logo-png.png';
+import Insurance from '../images/port/Insurance.png';
 import Portfolio1 from '../images/port/PortfolioJae.png';
 import Breakgame from '../images/port/Control-V.png';
 import cheater from '../images/port/Cheating.png';
+import EscapeRoom from '../images/port/EscapeRoom.png';
 
 
 const Portfolio = () => {
@@ -31,6 +32,12 @@ const Portfolio = () => {
       name: 'Insurance', 
       src: Insurance,
       link: 'https://github.com/jkim906/Jaewons-Insurance-System',
+    },
+    {
+      id: 5,
+      name: 'Escape Room Game',
+      src: EscapeRoom,
+      link: 'https://github.com/jkim906/Escape-room-game',
     },
   ];
 

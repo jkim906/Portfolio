@@ -10,11 +10,19 @@ const about = () => {
                 </p>
             </div>
             <p className=" text-xl mt-20">
-               Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat nam possimus similique. Eos maxime aliquam nam porro. Optio cum pariatur quae corrupti ipsum voluptas ex illum consequuntur, vero repellendus et deleniti id distinctio error. Atque harum vel nulla soluta magni perspiciatis incidunt saepe. Quod, id soluta ad porro recusandae minima?
+            My name is Jaewon Kim and im currently a second year software engineering student at the University of Auckland. 
+            Most of my experience lies in Java and object-oriented programming, along with C and Matlab. However, 
+            I am currently working towards learning JavaScript, CSS, and HTML through university club-provided workshops and online courses. 
+            This helped me create my portfolio website (code can be found on my Github).
+
             </p>
             <br />
             <p className="text-xl">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore, deserunt dolor. Officia, ex doloribus? Alias sapiente vero excepturi fuga odio, corporis obcaecati, doloremque facere sed fugit aliquid quo iure voluptas placeat inventore assumenda. Consectetur, eius? Odit quasi aliquid quibusdam assumenda et ab totam obcaecati commodi natus. Laborum molestias saepe animi.
+            Everyone has passion, and everyone has the knowledge and ability to follow instructions. 
+            What sets me apart from other candidates is my ability to think outside the box and come up with innovative ideas to be really 'different'. 
+            I constantly seek my own colour, uniqueness and ways for people to think 'Oh wow! Now this is not from ChatGPT.
+            Scroll below to check out my projects and skills! and feel free to contact me through the contact page down below.
+
             </p>
         </div>
 
