@@ -14,7 +14,7 @@ const Home = () => {
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
             Hi there! im a second year software engineering student at the University of Auckland.
-           My technical skills lie in Java, C, Matlab, HTMl, CSS and more.
+           Check out my portfolio to see some of the projects I've worked on, my technical skills, and more!
           </p>
           <div>
             <Link to="projects" smooth duration={500} offset={-100} className="group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursur-pointer">
