@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.ed554b71.css",
+    "main.js": "/Portfolio/static/js/main.a3ddf0f2.js",
+    "static/media/Jae-profile.png": "/Portfolio/static/media/Jae-profile.fcfbb16e0bab65c4b8e8.png",
+    "static/media/PortfolioJae.png": "/Portfolio/static/media/PortfolioJae.f2c5f8d152fd67331eb0.png",
+    "static/media/Insurance.png": "/Portfolio/static/media/Insurance.19dbb0c7f00cb019f6af.png",
+    "static/media/tailwind-logo.png": "/Portfolio/static/media/tailwind-logo.3549d9e451d7abb96934.png",
+    "static/media/Matlab_Logo.png": "/Portfolio/static/media/Matlab_Logo.5821b44d86984c741c1b.png",
+    "static/media/css-logo.png": "/Portfolio/static/media/css-logo.19c8605d6b2861f5fbe0.png",
+    "static/media/Cheating.png": "/Portfolio/static/media/Cheating.19f41f61a11a239ed03c.png",
+    "static/media/C-Logo.png": "/Portfolio/static/media/C-Logo.c0da8156a8d17281c29e.png",
+    "static/media/Javascript-logo.png": "/Portfolio/static/media/Javascript-logo.130c0ecd57833da6f75c.png",
+    "static/media/React-logo.png": "/Portfolio/static/media/React-logo.214af24d7f042fd76977.png",
+    "static/media/Java-Logo.png": "/Portfolio/static/media/Java-Logo.6c1a3b5f7e2d535bff5b.png",
+    "static/media/EscapeRoom.png": "/Portfolio/static/media/EscapeRoom.ced0886e17f480e76e51.png",
+    "static/media/Control-V.png": "/Portfolio/static/media/Control-V.317f0d5f0964987f5562.png",
+    "static/media/html-logo.png": "/Portfolio/static/media/html-logo.6ea4d06d4df1aade1da4.png",
+    "index.html": "/Portfolio/index.html",
+    "main.ed554b71.css.map": "/Portfolio/static/css/main.ed554b71.css.map",
+    "main.a3ddf0f2.js.map": "/Portfolio/static/js/main.a3ddf0f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed554b71.css",
+    "static/js/main.a3ddf0f2.js"
+  ]
+}
