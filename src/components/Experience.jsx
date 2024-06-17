@@ -7,7 +7,7 @@ import reactImage from '../images/skills/React-logo.png';
 import Java from '../images/skills/Java-Logo.png';
 import github from '../images/skills/Javascript-logo.png';
 import c from '../images/skills/C-Logo.png';
-import matlab from '../images/skills/Matlab_Logo.png';
+import python from '../images/python-logo.png';
 import tailwind from '../images/skills/tailwind-logo.png';
 
 const Experience = () => {
@@ -27,8 +27,8 @@ const Experience = () => {
         },
         {
             id: 3,
-            src: matlab,
-            title: 'Matlab',
+            src: python,
+            title: 'Python',
             style: 'shadow-yellow-500'
         },
         {
